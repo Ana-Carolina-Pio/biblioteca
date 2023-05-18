@@ -1,0 +1,32 @@
+.body_pp {
+    background-color:rgb(195, 233, 255);
+}
+
+.h1_pp {
+    text-align:center;
+    font-size: 60px;
+    color:black;
+} 
+.fav{
+    position: static;
+    background: rgb(12, 97, 224);
+    box-shadow: 8px 17px 19px 2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 8px 17px 19px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 8px 17px 19px 2px rgba(0,0,0,0.75);
+}
+.header_pp {
+    font-size: 60px;
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular';
+}
+.table_pp {
+    text-align: center;
+    width: 70%;
+    text-align: center;
+}
+.h2_pp {
+    font-size: 30px;
+}
+.tabela_pp > .table_pp{
+
+}
